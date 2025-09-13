@@ -1,0 +1,8 @@
+ls 
+pwd
+ls-a
+ifconfig
+:wq!
+cat
+rmdir
+mkdir
